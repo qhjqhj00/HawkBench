@@ -1,1 +1,21 @@
 # HawkBench
+### Annotation Demo
+```bash
+streamlit run annotation/demo.py
+```
+### Run Retrieval App
+```bash
+streamlit run annotation/retrieval_app.py
+```
+
+### post-process annotated data
+```bash
+python annotation/process.py
+```
+
+
+### run eval
+```bash
+bash scripts/eval.sh
+```
+modify pipeline for evaluating different baseline models
