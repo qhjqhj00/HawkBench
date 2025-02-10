@@ -19,3 +19,9 @@ python annotation/process.py
 bash scripts/eval.sh
 ```
 modify pipeline for evaluating different baseline models
+
+
+### get data
+```bash
+tar -xvf data/HawkBench.tar.gz
+```
