@@ -5,7 +5,7 @@ streamlit run annotation/demo.py
 ```
 ### Run Retrieval App
 ```bash
-streamlit run annotation/retrieval_app.py
+python annotation/retrieval_app.py
 ```
 
 ### post-process annotated data
