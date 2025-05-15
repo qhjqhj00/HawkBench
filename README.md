@@ -51,9 +51,9 @@ bash scripts/eval.sh
 ## 📦 Dataset
 
 Download and extract:
-
+```bash
 tar -xvf data/HawkBench.tar.gz
-
+```
 or use:
 👉 [HuggingFace](https://huggingface.co/TommyChien/HawkBench)
 
