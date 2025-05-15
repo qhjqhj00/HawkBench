@@ -3,7 +3,7 @@
 
 📄 **Paper:** [HAWKBENCH: Investigating Resilience of RAG Methods on Stratified Information-Seeking Tasks](https://arxiv.org/pdf/2502.13465)  
 🧠 **Authors:** Hongjin Qian, Zheng Liu, Chao Gao, Yankai Wang, Defu Lian, Zhicheng Dou  
-📦 **Dataset:** [HuggingFace](https://huggingface.co/TommyChien/HawkBench/) (1600 annotated QA samples across 8 domains)
+📦 **Dataset:** [HuggingFace](https://huggingface.co/datasets/TommyChien/HawkBench) (1600 annotated QA samples across 8 domains)
 
 ---
 
@@ -55,7 +55,7 @@ Download and extract:
 tar -xvf data/HawkBench.tar.gz
 ```
 or use:
-👉 [HuggingFace](https://huggingface.co/TommyChien/HawkBench)
+👉 [HuggingFace](https://huggingface.co/datasets/TommyChien/HawkBench)
 
 
 
